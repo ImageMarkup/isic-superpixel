@@ -1,0 +1,8 @@
+jupyter
+
+# The "isic" CLI command: https://github.com/ImageMarkup/isic-cli
+isic-cli
+
+# Needed for "v2" segmentation algorithm
+scikit-image
+Pillow
