@@ -6,3 +6,6 @@ isic-cli
 # Needed for "v2" segmentation algorithm
 scikit-image
 Pillow
+
+# Needed for "v3" segmentation algorithm
+itk
