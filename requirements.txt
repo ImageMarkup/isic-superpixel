@@ -8,4 +8,4 @@ scikit-image
 Pillow
 
 # Needed for "v3" segmentation algorithm
-itk
+itk-texturefeatures
